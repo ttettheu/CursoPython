@@ -3,7 +3,9 @@ Programação em Python do básico ao avançado
 
 1 - Apresentação
 -
-- Sobre o curso
+Olá, este repositório detalha meu progresso no Programação em Python do básico ao avançado da Geek University - Udemy.
+
+Meus códigos, atividades e soluções que eu irei desenvolver para os desafios estarão todos listados abaixo.
 
 2 - Preparando o ambiente
 -
