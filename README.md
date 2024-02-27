@@ -9,21 +9,21 @@ Meus códigos, atividades e soluções que eu irei desenvolver para os desafios 
 
 2 - Preparando o ambiente
 -
-<details open><summary>Instalação e configuração no Windows</summary>
+<details><summary>Instalação e configuração no Windows</summary>
 
 - [JDK Development Kit](https://www.oracle.com/br/java/technologies/downloads/#jdk21-windows)
 - [PyCharm Community](https://www.jetbrains.com/pycharm/download/?section=windows)
 - [Python](https://www.python.org/downloads/)
 </details>
 
-<details open><summary>Instalação e configuração no Linux</summary>
+<details><summary>Instalação e configuração no Linux</summary>
 
 - [JDK Development Kit](https://www.oracle.com/br/java/technologies/downloads/#jdk21-linux)
 - [PyCharm Community](https://www.jetbrains.com/pycharm/download/?section=linux)
 - [Python](https://www.python.org/downloads/)
 </details>
 
-<details open><summary>Instalação e configuração no Mac</summary>
+<details><summary>Instalação e configuração no Mac</summary>
 
 - [JDK Development Kit](https://www.oracle.com/br/java/technologies/downloads/#jdk21-mac)
 - [PyCharm Community](https://www.jetbrains.com/pycharm/download/?section=mac)
