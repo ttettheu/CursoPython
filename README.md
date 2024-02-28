@@ -46,8 +46,8 @@ Meus códigos, atividades e soluções que eu irei desenvolver para os desafios 
 
 5 - Estruturas Lógicas e Condicionais em Python
 -
-- If, else, elif
-- AND, OR, NOT, IS
+- [If, else, elif](https://github.com/ttettheu/CursoPython/blob/main/condicionais_if_else_elif.py)
+- [AND, OR, NOT, IS](https://github.com/ttettheu/CursoPython/blob/main/estruturas_logicas_and_or_not_is.py)
 
 6 - Etruturas de Repetição em Python
 -
