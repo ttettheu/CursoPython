@@ -32,30 +32,30 @@ Meus códigos, atividades e soluções que eu irei desenvolver para os desafios 
 
 3 - Introdução a Linguagem Python
 -
-- [PEP8](https://github.com/ttettheu/CursoPython/blob/main/pep8.py)
-- [Dir e Help](https://github.com/ttettheu/CursoPython/blob/main/dir_e_help.py)
-- [Recebendo dados do usuário](https://github.com/ttettheu/CursoPython/blob/main/recebendo_dados_usuario.py)
+- [PEP8](https://github.com/ttettheu/CursoPython/blob/main/codigos/pep8.py)
+- [Dir e Help](https://github.com/ttettheu/CursoPython/blob/main/codigos/dir_e_help.py)
+- [Recebendo dados do usuário](https://github.com/ttettheu/CursoPython/blob/main/codigos/recebendo_dados_usuario.py)
 
 4 - Variáveis e Tipos de Dados em Python
 -
-- [O tipo _numérico_](https://github.com/ttettheu/CursoPython/blob/main/tipo_numerico.py)
-- [O tipo _float_](https://github.com/ttettheu/CursoPython/blob/main/tipo_float.py)
-- [O tipo _booleano_](https://github.com/ttettheu/CursoPython/blob/main/tipo_booleano.py)
-- [O tipo _string_](https://github.com/ttettheu/CursoPython/blob/main/tipo_string.py)
-- [Escopo de variáveis](https://github.com/ttettheu/CursoPython/blob/main/escopo_de_variaveis.py)
+- [O tipo _numérico_](https://github.com/ttettheu/CursoPython/blob/main/codigos/tipo_numerico.py)
+- [O tipo _float_](https://github.com/ttettheu/CursoPython/blob/main/codigos/tipo_float.py)
+- [O tipo _booleano_](https://github.com/ttettheu/CursoPython/blob/main/codigos/tipo_booleano.py)
+- [O tipo _string_](https://github.com/ttettheu/CursoPython/blob/main/codigos/tipo_string.py)
+- [Escopo de variáveis](https://github.com/ttettheu/CursoPython/blob/main/codigos/escopo_de_variaveis.py)
 - Exercícios da Seção
 
 5 - Estruturas Lógicas e Condicionais em Python
 -
-- [If, else, elif](https://github.com/ttettheu/CursoPython/blob/main/condicionais_if_else_elif.py)
-- [AND, OR, NOT, IS](https://github.com/ttettheu/CursoPython/blob/main/estruturas_logicas_and_or_not_is.py)
+- [If, else, elif](https://github.com/ttettheu/CursoPython/blob/main/codigos/condicionais_if_else_elif.py)
+- [AND, OR, NOT, IS](https://github.com/ttettheu/CursoPython/blob/main/codigos/estruturas_logicas_and_or_not_is.py)
 
 6 - Etruturas de Repetição em Python
 -
-- [Loop for](https://github.com/ttettheu/CursoPython/blob/main/loop_for.py)
-- [Entendendo e explorando ranges](https://github.com/ttettheu/CursoPython/blob/main/entendendo_ranges.py)
-- [Loop while](https://github.com/ttettheu/CursoPython/blob/main/loop_while.py)
-- [Saindo de loops com break](https://github.com/ttettheu/CursoPython/blob/main/breaks.py)
+- [Loop for](https://github.com/ttettheu/CursoPython/blob/main/codigos/loop_for.py)
+- [Entendendo e explorando ranges](https://github.com/ttettheu/CursoPython/blob/main/codigos/entendendo_ranges.py)
+- [Loop while](https://github.com/ttettheu/CursoPython/blob/main/codigos/loop_while.py)
+- [Saindo de loops com break](https://github.com/ttettheu/CursoPython/blob/main/codigos/breaks.py)
 
 7 - Coleções Python
 -
