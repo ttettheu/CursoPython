@@ -38,11 +38,11 @@ Meus códigos, atividades e soluções que eu irei desenvolver para os desafios 
 
 4 - Variáveis e Tipos de Dados em Python
 -
-- O tipo _numérico_
-- O tipo _float_
-- O tipo _booleano_
-- O tipo _string_
-- Escopo de variáveis
+- [O tipo _numérico_](https://github.com/ttettheu/CursoPython/blob/main/tipo_numerico.py)
+- [O tipo _float_](https://github.com/ttettheu/CursoPython/blob/main/tipo_float.py)
+- [O tipo _booleano_](https://github.com/ttettheu/CursoPython/blob/main/tipo_booleano.py)
+- [O tipo _string_](https://github.com/ttettheu/CursoPython/blob/main/tipo_string.py)
+- [Escopo de variáveis](https://github.com/ttettheu/CursoPython/blob/main/escopo_de_variaveis.py)
 
 5 - Estruturas Lógicas e Condicionais em Python
 -
