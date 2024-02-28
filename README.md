@@ -51,10 +51,10 @@ Meus códigos, atividades e soluções que eu irei desenvolver para os desafios 
 
 6 - Etruturas de Repetição em Python
 -
-- Loop for
-- Entendendo e explorando ranges
-- Loop while
-- Saindo de loops com break
+- [Loop for](https://github.com/ttettheu/CursoPython/blob/main/loop_for.py)
+- [Entendendo e explorando ranges](https://github.com/ttettheu/CursoPython/blob/main/entendendo_ranges.py)
+- [Loop while](https://github.com/ttettheu/CursoPython/blob/main/loop_while.py)
+- [Saindo de loops com break](https://github.com/ttettheu/CursoPython/blob/main/breaks.py)
 
 7 - Coleções Python
 -
