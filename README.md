@@ -30,12 +30,11 @@ Meus códigos, atividades e soluções que eu irei desenvolver para os desafios 
 - [Python](https://www.python.org/downloads/)
 </details>
 
-
 3 - Introdução a Linguagem Python
 -
-- PEP8
-- Dir e Help
-- Recebendo dados do usuário
+- [PEP8](https://github.com/ttettheu/CursoPython/blob/main/pep8.py)
+- [Dir e Help](https://github.com/ttettheu/CursoPython/blob/main/dir_e_help.py)
+- [Recebendo dados do usuário](https://github.com/ttettheu/CursoPython/blob/main/recebendo_dados_usuario.py)
 
 4 - Variáveis e Tipos de Dados em Python
 -
