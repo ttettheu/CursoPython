@@ -43,7 +43,7 @@ Meus códigos, atividades e soluções que eu irei desenvolver para os desafios 
 - [O tipo _booleano_](https://github.com/ttettheu/CursoPython/blob/main/codigos/tipo_booleano.py)
 - [O tipo _string_](https://github.com/ttettheu/CursoPython/blob/main/codigos/tipo_string.py)
 - [Escopo de variáveis](https://github.com/ttettheu/CursoPython/blob/main/codigos/escopo_de_variaveis.py)
-- Exercícios da Seção
+- [Exercícios da Seção](https://github.com/ttettheu/CursoPython/tree/main/exercicios/secao_4)
 
 5 - Estruturas Lógicas e Condicionais em Python
 -
