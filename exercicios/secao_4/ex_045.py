@@ -5,4 +5,4 @@ ASCII para resolver o problema.
 
 entrada = input('Digite algo para converter de maiúsculo para minúsculo: ')
 
-print(f'{entrada} >>> {entrada.lower()}')
+print(f'{entrada} >>> {entrada.casefold()}')
