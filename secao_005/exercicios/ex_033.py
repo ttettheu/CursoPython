@@ -34,4 +34,4 @@ elif precoNovo <= 200:
 else:
     mensagem = 'Muito Caro'
 
-print(f'Preço novo: R${precoNovo} - {mensagem}')
+print(f'Preço novo: R${precoNovo:.2f} - {mensagem}')
