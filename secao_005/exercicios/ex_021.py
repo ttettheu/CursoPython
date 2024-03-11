@@ -22,7 +22,7 @@ num2 = float(input('Digite o segundo número: '))
 if opcao == 1:
     print(f'Resultado: {num1 + num2}')
 elif opcao == 2:
-    print(f'Resultado: {abs(num1 - num2)}') # Digita no terminal help(abs). Ele retorna o valor absoluto do argumento.
+    print(f'Resultado: {abs(num1 - num2)}')  # Digita no terminal help(abs). Ele retorna o valor absoluto do argumento.
 elif opcao == 3:
     print(f'Resultado: {num1 * num2}')
 elif opcao == 4:
