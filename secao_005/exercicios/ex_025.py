@@ -27,6 +27,7 @@ else:
     if delta < 0:
         print('Não existe raiz')
     elif delta == 0:
+        raizUnica = -b / (2*a)
         print('Raiz única.')
     elif delta >= 0:
         raiz1 = (-b + delta**(0.5)) / (2*a)
