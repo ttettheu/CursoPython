@@ -1,5 +1,5 @@
 """
-Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela
+Faça um programa que receba a altura e o peso de uma pessoa. Conforme a tabela
 a seguir, verifique e mostra qual a classificação dessa pessoa.
 
     |     Altura     |                          Peso                    |
@@ -9,3 +9,29 @@ a seguir, verifique e mostra qual a classificação dessa pessoa.
     | Maior que 1,70 |    C   |             F             |      I      |
 
 """
+
+altura = float(input('Digite a altura: '))
+peso = float(input('Digite o peso: '))
+
+if altura < 1.20:
+    if peso <= 60:
+        classificacao = 'A'
+    elif peso <= 90:
+        classificacao = 'D'
+    else:
+        classificacao = 'G'
+elif altura <= 1.70:
+    if peso <= 60:
+        classificacao = 'B'
+    elif peso <= 90:
+        classificacao = 'E'
+    else:
+        classificacao = 'H'
+else:
+    if peso <= 60:
+        classificacao = 'C'
+    elif peso <= 90:
+        classificacao = 'F'
+    else:
+        classificacao = 'I'
+print(f'Sua classificação é: {classificacao}')
